@@ -99,7 +99,7 @@ const FooterNav = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/medusajs/nextjs-starter-medusa"
+                  href="https://github.com/edisaso/KnutMerch"
                   target="_blank"
                   rel="noreferrer"
                 >
